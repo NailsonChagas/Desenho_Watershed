@@ -1,4 +1,4 @@
-# Utilizando o algoritmo Watershed para gera um desenho baseado em uma imagem
+# Utilizando o algoritmo Watershed para gerar um desenho baseado em uma imagem
 
 Feito durante o estudo de visão computacional
 
